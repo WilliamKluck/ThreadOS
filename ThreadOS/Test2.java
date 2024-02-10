@@ -1,7 +1,7 @@
 import java.util.Date;
 
 /**
- * Tests Scheduler.java with 5 child threads: TestThread2[a],
+ * Tests SchedulerOriginal.java with 5 child threads: TestThread2[a],
  * TestThread2[b], TestThread2[c], TestThread2[d], and TestThread2[e],
  * each running 5, 1, 3, 6, and .5 seconds. Test2 waits for all the
  * child thread termination at the end.
